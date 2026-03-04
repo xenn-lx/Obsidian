@@ -49,7 +49,7 @@ ThemeManager.AppliedToTab = false
 ThemeManager.BuiltInThemes = {
     ["Default"] = {
         1,
-        { FontColor = "ffffff", MainColor = "191919", AccentColor = "4d94ff", BackgroundColor = "0d1117", OutlineColor = "1e3a5f" },
+        { FontColor = "ffffff", MainColor = "0f1a2e", AccentColor = "4d94ff", BackgroundColor = "080f1e", OutlineColor = "2a5298" },
     },
     ["BBot"] = {
         2,
